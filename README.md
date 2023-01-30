@@ -3,8 +3,11 @@
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 <div id="header" align="center">
-  <iframe src="https://giphy.com/embed/oYQ9HRm5Mo7VXeMNVR" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/glitch-error-basic-oYQ9HRm5Mo7VXeMNVR">via GIPHY</a></p>
+  <div id="header" align="center">
+  <img src="https://giphy.com/embed/oYQ9HRm5Mo7VXeMNVR" width="100"/>
 </div>
+
+
 
 - 🌱 I’m currently learning **JS, ReactJS, Babel, Webpack**
 
