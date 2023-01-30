@@ -4,7 +4,7 @@
 
 <div id="header" align="center">
   <div id="header" align="center">
-  <img src="https://giphy.com/embed/oYQ9HRm5Mo7VXeMNVR" width="100"/>
+  <img src="https://giphy.com/gifs/glitch-error-basic-oYQ9HRm5Mo7VXeMNVR" width="100"/>
 </div>
 
 
