@@ -13,7 +13,8 @@
 
 - 📫 How to reach me **Discord (Username- Dev-Niraj#6312)**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">About Me:</h3>
+ ⚒️ Actively working on gaining skills and employment in web development.
 <p align="left">
 </p>
 
