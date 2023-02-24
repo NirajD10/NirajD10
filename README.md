@@ -8,11 +8,12 @@
 </div>
 
 
-
+<p>
 - 🌱 I’m currently learning **JS, ReactJS, Babel, Webpack**
 
 - 📫 How to reach me **Discord (Username- Dev-Niraj#6312)**
-
+</p>
+  
 <h3 align="left">About Me:</h3>
  ⚒️ Actively working on gaining skills and employment in web development.
 <p align="left">
