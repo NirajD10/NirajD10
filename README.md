@@ -10,7 +10,7 @@
 
 <p align="left">
 - 🌱 I’m currently learning **JS, ReactJS, Babel, Webpack**
-
+</p><p align="left">
 - 📫 How to reach me **Discord (Username- Dev-Niraj#6312)**
 </p>
   
