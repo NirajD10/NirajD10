@@ -8,7 +8,7 @@
 </div>
 
 
-<p>
+<p align="left">
 - 🌱 I’m currently learning **JS, ReactJS, Babel, Webpack**
 
 - 📫 How to reach me **Discord (Username- Dev-Niraj#6312)**
