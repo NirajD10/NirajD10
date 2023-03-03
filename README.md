@@ -7,21 +7,20 @@
 </div>
 
 
-<p align="left">
 * 🌳 I’m currently learning Vanilla JavaScript! <br> 
 Actively Going through:
   - Serval Self projects
   - Udemy: The Complete Javascript Course w/ Jonas Schmedtmann
   - Youtube Videos<br>
   
-* ⚒️ Actively working on gaining skills and employment in web development.
+* ⚒️ Actively working on gaining skills and employment in web development.<br><br>
 
 * 🐾 I’m looking to network and make friends here! <br><br>
 
 * 🌊 2023 Goals: Contribute more to Open Source projects, land high paying jobs! <br><br>
 
 * ☕ Interest: Anime, Tv series, and Coding. <br><br>
-</p>
+<h2></h2><br>
   
 
 <div align="center">
