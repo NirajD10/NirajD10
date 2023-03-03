@@ -1,10 +1,9 @@
 # README.md
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=F7F7F7&center=true&width=435&lines=Hello%2C+I'm+Niraj.;Welcome+to+my+profile!" align="middle" lt="I'm Niraj" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=F7F7F7&vCenter=true=true&width=435&lines=Hello%2C+I'm+Niraj.;Welcome+to+my+profile!" align="middle" lt="I'm Niraj" />
 
 <div id="header" align="center">
   <div id="header" align="center">
   <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif"/>
-  </div>
 </div>
 
 
