@@ -12,7 +12,7 @@
 * 🌳 I’m currently learning Vanilla JavaScript! <br> 
 Actively Going through:
   - Serval Self projects
-  - Udemy: The Complete Javascript Course w/ Jonas Schmedtmann
+  - Udemy: React - The Complete Guide By Maximilian Schwarzmuller
   - Youtube Videos<br>
   
 * ⚒️ Actively working on gaining skills and employment in web development.<br><br>
