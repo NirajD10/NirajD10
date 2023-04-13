@@ -9,7 +9,7 @@
 </div>
 
 
-* 🌳 I’m currently learning Vanilla JavaScript! <br> 
+* 🌳 I’m currently learning React JS! <br> 
 Actively Going through:
   - Serval Self projects
   - Udemy: React - The Complete Guide By Maximilian Schwarzmuller
