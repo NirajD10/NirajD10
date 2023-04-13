@@ -31,5 +31,5 @@ Actively Going through:
   <h2> <strong> Plan to Learn </strong></h2>
   <img src="https://skillicons.dev/icons?i=nodejs,django,ts,python,nextjs,graphql,express,flask,mongodb,bootstrap&perline=6" alt="skills planning to learn">
   <h2> <strong> Skills </strong></h2>
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwindcss,firebase,webpack,wordpress,postgres,mysql,git,ps,&perline=5" alt="my skills">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwindcss,firebase,webpack,wordpress,postgres,mysql,git,ps,&perline=6" alt="my skills">
 </div>
