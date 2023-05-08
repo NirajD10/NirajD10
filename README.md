@@ -16,7 +16,7 @@ Actively Going through:
   - Youtube Videos<br>
   - Learn TypeScript – Full Tutorial from FreeCodeCamp and instructor is Hitesh Choudhary(on youtube)
   
-* ⚒️ Actively working on gaining skills and employment in web development.<br><br>
+* ⚒️ Actively working on gaining skills and Looking employment in web development.<br><br>
 
 * 🐾 I’m looking to network and make friends here! <br><br>
 
