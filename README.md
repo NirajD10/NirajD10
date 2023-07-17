@@ -14,7 +14,7 @@ Actively Going through:
   - Serval Self projects
   - Udemy: React - The Complete Guide By Maximilian Schwarzmuller
   - Youtube Videos<br>
-  - Learn TypeScript – Full Tutorial from FreeCodeCamp and instructor is Hitesh Choudhary(on youtube)
+  - Full HTTP Networking Course – Fetch and REST APIs in JavaScript by FreeCodeCamp (on youtube)
   
 * ⚒️ Actively working on gaining skills and Looking employment in web development.<br><br>
 
