@@ -12,7 +12,6 @@
 * 🌳 I’m currently learning React JS! <br> 
 Actively Going through:
   - Serval Self projects
-  - Udemy: React - The Complete Guide By Maximilian Schwarzmuller
   - Youtube Videos<br>
   
 * ⚒️ Actively working on gaining skills and Looking employment in web development.<br><br>
