@@ -9,10 +9,10 @@
 </div>
 
 
-* 🌳 I’m currently learning React JS! <br> 
+* 🌳 I’m currently learning Node js! <br> 
 Actively Going through:
   - Serval Self projects
-  - Youtube Videos<br>
+  - Youtube Videos
   - Learning Udemy Course NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno) by Maximillian Schwarzmüller
   
 * ⚒️ Actively working on gaining skills and Looking employment in web development.<br><br>
