@@ -13,6 +13,7 @@
 Actively Going through:
   - Serval Self projects
   - Youtube Videos<br>
+  - Learning Udemy Course NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno) by Maximillian Schwarzmüller
   
 * ⚒️ Actively working on gaining skills and Looking employment in web development.<br><br>
 
