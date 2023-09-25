@@ -27,7 +27,7 @@ Actively Going through:
 
 <div align="center">
   <h2> <strong> Actively Learning </strong></h2>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="skills actively learning logos"> <br> 
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mongoose" alt="skills actively learning logos"> <br> 
   <h2> <strong> Plan to Learn </strong></h2>
   <img src="https://skillicons.dev/icons?i=prisma,ts,graphql,bootstrap&perline=6" alt="skills planning to learn">
   <h2> <strong> Skills </strong></h2>
