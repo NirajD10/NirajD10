@@ -13,7 +13,7 @@
 Actively Going through:
   - Serval Self projects
   - Youtube Videos
-  - Learning Udemy Course NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno) by Maximillian Schwarzmüller
+  - Learning Typescript full tutorial by Dave Gray (Youtube)
   
 * ⚒️ Actively working on gaining skills and Looking employment in web development.<br><br>
 
