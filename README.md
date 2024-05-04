@@ -11,15 +11,16 @@
 
 * 🌳 I’m currently learning Node js! <br> 
 Actively Going through:
-  - Serval Self projects
+  - Looking Jobs
   - Youtube Videos
-  - Learning Typescript full tutorial by Dave Gray (Youtube)
+  - Learning React native course from udemy
+  - C# tutorial on youtube
   
 * ⚒️ Actively working on gaining skills and Looking employment in web development.<br><br>
 
 * 🐾 I’m looking to network and make friends here! <br><br>
 
-* 🌊 2023 Goals: Contribute more to Open Source projects, land high paying jobs! <br><br>
+* 🌊 2024 Goals: Contribute more to Open Source projects, land high paying jobs! <br><br>
 
 * ☕ Interest: Anime, Tv series, and Coding. <br><br>
 
