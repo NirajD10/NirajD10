@@ -9,8 +9,7 @@
 </div>
 
 
-* 🌳 I’m currently learning Node js! <br> 
-Actively Going through:
+* 🌳 Actively Going through: <br> 
   - Looking Jobs
   - Youtube Videos
   - Learning React native course from udemy
