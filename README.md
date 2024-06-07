@@ -21,7 +21,7 @@ Actively Going through:
 
 * 🐾 I’m looking to network and make friends here! <br><br>
 
-* 🌊 2024 Goals: Contribute more to Open Source projects, land high paying jobs! <br><br>
+* 🌊 2024 Goals: Contribute more to Open Source projects, land decent jobs! <br><br>
 
 * ☕ Interest: Anime, Tv series, and Coding. <br><br>
 
