@@ -28,10 +28,10 @@
 
 <div align="center">
   <h2> <strong> Actively Learning </strong></h2>
-<!--   <img src="https://skillicons.dev/icons?i=" alt="skills actively learning logos">  -->
+  <img src="https://skillicons.dev/icons?i=cs" alt="skills actively learning logos"> 
   <br>
   <h2> <strong> Plan to Learn </strong></h2>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,nestjs,prisma,graphql,bootstrap&perline=6" alt="skills planning to learn">
+  <img src="https://skillicons.dev/icons?i=dotnet,nestjs,prisma,graphql,bootstrap&perline=6" alt="skills planning to learn">
   <h2> <strong> Skills </strong></h2>
   <img src="https://skillicons.dev/icons?i=html,css,react,js,nextjs,tailwindcss,nodejs,express,ts,mongodb,firebase,webpack,wordpress,mysql,git,figma,ps,&perline=6" alt="my skills">
 </div>
