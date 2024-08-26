@@ -27,8 +27,8 @@
   
 
 <div align="center">
-  <h2> <strong> Actively Learning </strong></h2>
-  <img src="https://skillicons.dev/icons?i=ts" alt="skills actively learning logos"> 
+<!--   <h2> <strong> Actively Learning </strong></h2>
+  <img src="https://skillicons.dev/icons?i=ts" alt="skills actively learning logos">  -->
   <br>
   <h2> <strong> Plan to Learn </strong></h2>
   <img src="https://skillicons.dev/icons?i=cs,dotnet,nestjs,prisma,graphql,bootstrap&perline=6" alt="skills planning to learn">
