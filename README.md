@@ -10,13 +10,12 @@
 
 
 * 🌳 Actively Going through: <br> 
-  - Looking Jobs
   - Youtube Videos
   - Learning React native course from udemy
   - Doing project using typescript
   - C# tutorial on youtube
   
-* ⚒️ Actively working on gaining skills and Looking employment in web development.<br><br>
+* ⚒️ Actively working on gaining skills and Looking upgrade employment in web development.<br><br>
 
 * 🐾 I’m looking to network and make friends here! <br><br>
 
