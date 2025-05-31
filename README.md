@@ -17,7 +17,7 @@
 
 * 🐾 I’m looking to network and make friends here! <br><br>
 
-* 🌊 2024 Goals: Contribute more to Open Source projects, land decent jobs! <br><br>
+* 🌊 2025 Goals: Improve to write better code, learn advanced concept and java language as well, make more project.  <br><br>
 
 * ☕ Interest: Anime, Tv series, and Coding. <br><br>
 
