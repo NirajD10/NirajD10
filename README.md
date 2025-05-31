@@ -32,5 +32,5 @@
   <h2> <strong> Skills </strong></h2>
   <img src="https://skillicons.dev/icons?i=html,css,react,js,nextjs,tailwindcss,nodejs,express,ts,mongodb,firebase,webpack,wordpress,mysql,git,figma,ps,&perline=6" alt="my skills">
   <h2> <strong> Tools I use </strong></h2>
-  <img src="https://skillicons.dev/icons?i=neovim,vscode,vite,windows&perline=6" alt="my tools">
+  <img src="https://skillicons.dev/icons?i=webstorm,vscode,vite,npm,yarn,windows&perline=6" alt="my tools">
 </div>
