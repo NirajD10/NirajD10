@@ -11,9 +11,7 @@
 
 * 🌳 Actively Going through: <br> 
   - Youtube Videos
-  - Learning React native course from udemy
   - Doing project using typescript
-  - C# tutorial on youtube
   
 * ⚒️ Actively working on gaining skills and Looking upgrade employment in web development.<br><br>
 
@@ -30,7 +28,7 @@
   <img src="https://skillicons.dev/icons?i=ts" alt="skills actively learning logos">  -->
   <br>
   <h2> <strong> Plan to Learn </strong></h2>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,nestjs,prisma,graphql,bootstrap&perline=6" alt="skills planning to learn">
+  <img src="https://skillicons.dev/icons?i=java,spring,nestjs,prisma,graphql,bootstrap,&perline=6" alt="skills planning to learn">
   <h2> <strong> Skills </strong></h2>
   <img src="https://skillicons.dev/icons?i=html,css,react,js,nextjs,tailwindcss,nodejs,express,ts,mongodb,firebase,webpack,wordpress,mysql,git,figma,ps,&perline=6" alt="my skills">
   <h2> <strong> Tools I use </strong></h2>
