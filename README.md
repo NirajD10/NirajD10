@@ -1,33 +1,86 @@
-# README.md
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=F7F7F7&vCenter=true=true&width=435&lines=Hello%2C+I'm+Niraj.;Welcome+to+my+profile!" align="middle" lt="I'm Niraj" />
-<h2></h2><br><br>
+# 👋 Hi, I'm Niraj Deshmukh
 
-<div id="header" align="center">
-  <div id="header" align="center">
-  <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif"/>
-  </div>
-</div>
+### Full Stack Developer • Web Development • Exploring AI
 
+I’m a passionate developer who enjoys building modern, practical applications
+and continuously improving how I write and design software.
 
-* 🌳 Actively Going through: <br> 
-  - Learning AI & Generative AI
-  
-* ⚒️ Actively working on gaining skills and Looking upgrade employment in web development.<br><br>
+Currently focused on **Full Stack Development, TypeScript, Cloud & AI**.
 
-* 🐾 I’m looking to network and make friends here! <br><br>
+<p align="left">
+  <a href="https://github.com/NirajD10">
+    <img src="https://img.shields.io/github/followers/NirajD10?label=Followers&style=flat-square" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/NirajD10">
+    <img src="https://img.shields.io/github/stars/NirajD10?label=Stars&style=flat-square" alt="GitHub stars" />
+  </a>
+  <a href="https://nirajdeshmukh.com">
+    <img src="https://img.shields.io/badge/Portfolio-nirajdeshmukh.com-000?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/niraj-deshmukh-nd10/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-* ☕ Interest: Anime, Tv series, and Coding. <br><br>
+---
 
-  
+## 🚀 About Me
 
-<div align="center">
-<!--   <h2> <strong> Actively Learning </strong></h2>
-  <img src="https://skillicons.dev/icons?i=ts" alt="skills actively learning logos">  -->
-  <br>
-  <h2> <strong> Plan to Learn </strong></h2>
-  <img src="https://skillicons.dev/icons?i=golang,nestjs,graphql,n8n&perline=6" alt="skills planning to learn">
-  <h2> <strong> Skills </strong></h2>
-  <img src="https://skillicons.dev/icons?i=html,css,react,js,nextjs,drizzle,prisma,tailwindcss,python,claude,spring,nodejs,express,ts,mongodb,firebase,webpack,wordpress,mysql,git,figma,ps,&perline=6" alt="my skills">
-  <h2> <strong> Tools I use </strong></h2>
-  <img src="https://skillicons.dev/icons?i=webstorm,vscode,vite,npm,yarn,windows&perline=6" alt="my tools">
-</div>
+- 💻 Full Stack Developer building web applications with modern JavaScript technologies
+- 🌱 Currently exploring **AI & Generative AI**
+- 🧠 Improving my knowledge of **TypeScript, backend architecture & system design**
+- ☁️ Working with **AWS, Docker & CI/CD**
+- 🎯 Interested in building products that are useful, scalable and easy to maintain
+- 🎨 I also enjoy UI design and turning ideas into polished interfaces
+- 🌌 Outside coding: Anime, TV series & learning new technologies
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,py,java,html,css" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwindcss,vite,webpack" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,flask,spring" />
+</p>
+
+### Databases & Backend Services
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase,prisma" />
+</p>
+
+### Cloud, DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,nginx,prometheus,grafana,git,github,postman" />
+</p>
+
+### Development Environment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,mint,vscode,webstorm,npm,yarn,bun,windows" />
+</p>
+
+---
+
+## 🌱 Currently Exploring
+
+```text
+AI & Generative AI
+TypeScript & Advanced JavaScript
+Backend Architecture
+Cloud & DevOps
+System Design
