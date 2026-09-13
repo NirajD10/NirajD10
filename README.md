@@ -10,14 +10,11 @@
 
 
 * 🌳 Actively Going through: <br> 
-  - Youtube Videos
-  - Doing project using typescript
+  - Learning AI & Generative AI
   
 * ⚒️ Actively working on gaining skills and Looking upgrade employment in web development.<br><br>
 
 * 🐾 I’m looking to network and make friends here! <br><br>
-
-* 🌊 2025 Goals: Improve to write better code, learn advanced concept and java language as well, make more project.  <br><br>
 
 * ☕ Interest: Anime, Tv series, and Coding. <br><br>
 
@@ -28,9 +25,9 @@
   <img src="https://skillicons.dev/icons?i=ts" alt="skills actively learning logos">  -->
   <br>
   <h2> <strong> Plan to Learn </strong></h2>
-  <img src="https://skillicons.dev/icons?i=java,spring,nestjs,prisma,graphql,bootstrap,&perline=6" alt="skills planning to learn">
+  <img src="https://skillicons.dev/icons?i=golang,nestjs,graphql,n8n&perline=6" alt="skills planning to learn">
   <h2> <strong> Skills </strong></h2>
-  <img src="https://skillicons.dev/icons?i=html,css,react,js,nextjs,tailwindcss,nodejs,express,ts,mongodb,firebase,webpack,wordpress,mysql,git,figma,ps,&perline=6" alt="my skills">
+  <img src="https://skillicons.dev/icons?i=html,css,react,js,nextjs,drizzle,prisma,tailwindcss,python,claude,spring,nodejs,express,ts,mongodb,firebase,webpack,wordpress,mysql,git,figma,ps,&perline=6" alt="my skills">
   <h2> <strong> Tools I use </strong></h2>
   <img src="https://skillicons.dev/icons?i=webstorm,vscode,vite,npm,yarn,windows&perline=6" alt="my tools">
 </div>
